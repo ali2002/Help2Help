@@ -64,6 +64,7 @@ public class HelpActivity extends AppCompatActivity {
      */
     private class GetContacts extends AsyncTask<Void, Void, Void> {
 
+
         @Override
         protected void onPreExecute() {
             super.onPreExecute();
